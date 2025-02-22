@@ -5,7 +5,10 @@ The game supports **turn-based gameplay** against **another player or the comput
 
 ## 👥 Authors  
 - [**markdavidb**](https://github.com/markdavidb)  
-- [**yarinzaroog**](https://github.com/yarinzaroog)  
+- [**yarinzaroog**](https://github.com/yarinzaroog)
+  
+## 👨‍🏫 Lecturer  
+- [**Guy Ronen**](https://guyronen.net/)
 
 ## 🛠 Technologies  
 - **C#**  
